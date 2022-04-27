@@ -1,6 +1,8 @@
 # lmfcn
 Large Margin Fully Convolutional Network
 
+<video src='out.mp4' width=180/> | <video src='video2.mp4' width=180/>
+
 Tested with:
 - pytorch (1.11.0)
 - py (3.9)
