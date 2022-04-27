@@ -2,6 +2,7 @@
 Large Margin Fully Convolutional Network
 
 Sample of features extracted from Gaussian images being trained in 20 epochs:
+
 https://user-images.githubusercontent.com/22577207/165535633-0ed95a0c-8f63-4348-8182-47e1fe491a32.mp4
 
 Tested with:
